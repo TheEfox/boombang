@@ -1,7 +1,7 @@
 directories:
   output: dist
   buildResources: build
-appId: com.example.Bumban
+appId: com.example.Boombang
 publish:
   provider: github
   token: <stripped sensitive data>
