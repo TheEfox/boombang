@@ -1,8 +1,0 @@
-directories:
-  output: dist
-  buildResources: build
-appId: com.example.Boombang
-publish:
-  provider: github
-  token: <stripped sensitive data>
-electronVersion: 5.0.13
